@@ -1,0 +1,3 @@
+pycryptodome
+jinja2
+requests

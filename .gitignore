@@ -1,0 +1,7 @@
+*venv/
+*env/
+.python-version
+*.pyc
+*.pyi
+*.cproj
+*.bin
